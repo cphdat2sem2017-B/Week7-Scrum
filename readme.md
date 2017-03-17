@@ -1,3 +1,9 @@
+<style>
+td
+{
+  vertical-align: top;
+}
+</style>
 # week7-Scrum
 Scrum is a management framework that describes how teams can work together to develop a product.
 
@@ -10,7 +16,7 @@ Scrum is a management framework that describes how teams can work together to de
 - How to work in an iterative manner where software is build piece by piece
 
 ## Weekplan
-<table style="vertical-align: top;">
+<table>
 	<tr>
 		<th>Day</th>
 		<th>Topic</th>
