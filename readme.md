@@ -17,7 +17,18 @@ Tuesday | Product backlog (PBL) | How to define requirements as user stories and
 Wednesday | Sprint planning | How to do sprint planning which is the team's planning of next iteration. | Pages 51-68 / 75-92 / Video: http://blog.crisp.se/author/henrikkniberg
 Thursday | Scrum tools & work on PBL for Fog project | Introduction to Scrum tools + group work with Product Backlog grooming & prioritization. | -
 Friday | Group review & discussion of PBL version 1 | Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups. | -
-  
+
+<table>
+	<tr>
+		<th>Day</th>
+		<th></th>
+    </tr>
+	<tr>
+		<td>Monday</td>
+		<td>Overview</td>	
+	</tr>
+</table>
+
 ## Readings
 Henrik Kniberg - Scrum and XP from the Trenches
 https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
