@@ -1,4 +1,4 @@
-# week7-Scrum
+# Week7-Scrum
 Scrum is a management framework that describes how teams can work together to develop a product.
 
 ## Learning objectives
@@ -21,7 +21,8 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>Monday</td>
 		<td>Overview of Scrum</td>	
 		<td>
-		How to work with agile, iterative software development using Scrum. We will look at why, what and how?<br>
+		How to work with agile, iterative software development using Scrum.<br>
+		Why / What / How?<br>
 		Make team contracts / Establish team contract for Fog project
 		</td>
 		<td>Pages 1-13</td>	
@@ -40,7 +41,9 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>
 		How to do sprint planning which is the team's planning of next iteration.
 		</td>
-		<td>Pages 51-68 / 75-92 / Video: http://blog.crisp.se/author/henrikkniberg</td>	
+		<td>
+		Pages 51-68 / 75-92<br>
+		Video: http://blog.crisp.se/author/henrikkniberg</td>	
 	</tr>
 	<tr>
 		<td>Thursday</td>
@@ -54,12 +57,15 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>Friday</td>
 		<td>Group review & discussion of PBL version 1</td>	
 		<td>
-		Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups.
+		Presentation of group work:<br>
+		Product Backlog grooming and prioritization of requirements for Fog semester project.<br>
+		Done group wise with teachers & Alpha Solutions.<br>
+		There will be a plan with meeting time for groups.
 		</td>
 		<td></td>	
 	</tr>
 </table>
 
 ## Readings
-Henrik Kniberg - Scrum and XP from the Trenches
+Henrik Kniberg - Scrum and XP from the Trenches<br>
 https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
