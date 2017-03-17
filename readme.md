@@ -42,14 +42,15 @@ Scrum is a management framework that describes how teams can work together to de
 		How to do sprint planning which is the team's planning of next iteration.
 		</td>
 		<td>
-		Pages 51-68 / 75-92<br>
+		Pages 51-68 & 75-92<br>
 		Video: http://blog.crisp.se/author/henrikkniberg</td>	
 	</tr>
 	<tr>
 		<td>Thursday</td>
 		<td>Scrum tools & work on PBL for Fog project</td>	
 		<td>
-		Introduction to Scrum tools + group work with Product Backlog grooming & prioritization.
+		Introduction to scrum tools<br>
+		Group work with product backlog grooming & prioritization.
 		</td>
 		<td></td>	
 	</tr>
@@ -58,7 +59,7 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>Group review & discussion of PBL version 1</td>	
 		<td>
 		Presentation of group work:<br>
-		Product Backlog grooming and prioritization of requirements for Fog semester project.<br>
+		Product backlog grooming and prioritization of requirements for Fog semester project.<br>
 		Done group wise with teachers & Alpha Solutions.<br>
 		There will be a plan with meeting time for groups.
 		</td>
