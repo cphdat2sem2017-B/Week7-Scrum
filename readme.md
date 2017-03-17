@@ -20,7 +20,7 @@ Scrum is a management framework that describes how teams can work together to de
 ## Weekplan
 <table>
 	<tr>
-		<th>Day</th>
+		<th>.top[Day]</th>
 		<th>Topic</th>
 		<th>Details</th>
 		<th>Litterature</th>
