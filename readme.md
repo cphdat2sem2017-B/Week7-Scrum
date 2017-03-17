@@ -10,22 +10,53 @@ Scrum is a management framework that describes how teams can work together to de
 - How to work in an iterative manner where software is build piece by piece
 
 ## Weekplan
-Day | Topic | Details | Litterature
----|---|---|---
-Monday | Overview of Scrum | How to work with agile, iterative software development using Scrum. We will look at why, what and how? Make team contracts / Establish team contract for Fog project | Pages 1-13
-Tuesday | Product backlog (PBL) | How to define requirements as user stories and how to build a Product Backlog containing stories based on estimation and prioritization. | Pages 14-50  
-Wednesday | Sprint planning | How to do sprint planning which is the team's planning of next iteration. | Pages 51-68 / 75-92 / Video: http://blog.crisp.se/author/henrikkniberg
-Thursday | Scrum tools & work on PBL for Fog project | Introduction to Scrum tools + group work with Product Backlog grooming & prioritization. | -
-Friday | Group review & discussion of PBL version 1 | Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups. | -
-
 <table>
 	<tr>
 		<th>Day</th>
-		<th></th>
+		<th>Topic</th>
+		<th>Details</th>
+		<th>Litterature</th>
     </tr>
 	<tr>
 		<td>Monday</td>
-		<td>Overview</td>	
+		<td>Overview of Scrum</td>	
+		<td>
+		How to work with agile, iterative software development using Scrum. We will look at why, what and how?<br>
+		Make team contracts / Establish team contract for Fog project
+		</td>
+		<td>Pages 1-13</td>	
+	</tr>
+	<tr>
+		<td>Tuesday</td>
+		<td>Product backlog (PBL)</td>
+		<td>
+		How to define requirements as user stories and how to build a Product Backlog containing stories based on estimation and prioritization.
+		</td>
+		<td>Pages 14-50</td>	
+	</tr>
+	<tr>
+		<td>Wednesday</td>
+		<td>Sprint planning</td>	
+		<td>
+		How to do sprint planning which is the team's planning of next iteration.
+		</td>
+		<td>Pages 51-68 / 75-92 / Video: http://blog.crisp.se/author/henrikkniberg</td>	
+	</tr>
+	<tr>
+		<td>Thursday</td>
+		<td>Scrum tools & work on PBL for Fog project</td>	
+		<td>
+		Introduction to Scrum tools + group work with Product Backlog grooming & prioritization.
+		</td>
+		<td></td>	
+	</tr>
+	<tr>
+		<td>Friday</td>
+		<td>Group review & discussion of PBL version 1</td>	
+		<td>
+		Presentation of group work: Product Backlog grooming and prioritization of requirements for Fog semester project. This is done group wise with teachers / Alpha Solutions. There will be a plan with meeting time for groups.
+		</td>
+		<td></td>	
 	</tr>
 </table>
 
