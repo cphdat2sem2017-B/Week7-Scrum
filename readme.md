@@ -10,7 +10,7 @@ Scrum is a management framework that describes how teams can work together to de
 - How to work in an iterative manner where software is build piece by piece
 
 ## Weekplan
-<table>
+<table style="vertical-align: top;">
 	<tr>
 		<th>Day</th>
 		<th>Topic</th>
