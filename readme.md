@@ -43,7 +43,7 @@ Scrum is a management framework that describes how teams can work together to de
 		</td>
 		<td>
 		Pages 51-68 & 75-92<br>
-		Video: http://blog.crisp.se/author/henrikkniberg</td>	
+		Video: https://www.youtube.com/watch?v=502ILHjX9EE</td>	
 	</tr>
 	<tr>
 		<td>Thursday</td>
