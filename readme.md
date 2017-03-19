@@ -27,7 +27,7 @@ Scrum is a management framework that describes how teams can work together to de
 		</td>
 		<td>
 		Scrum and XP from the Trenches: Pages 1-13<br>
-		[TeamContract](Material/TeamContract.pdf)
+		[TeamContract](/Material/TeamContract.pdf)
 		</td>	
 	</tr>
 	<tr>
