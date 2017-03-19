@@ -26,7 +26,7 @@ Scrum is a management framework that describes how teams can work together to de
 		Make team contracts / Establish team contract for Fog project
 		</td>
 		<td>
-		Scrum and XP from the Trenches: Pages 1-13
+		Scrum and XP from the Trenches: Pages 1-13<br>
 		[TeamContract](Material/TeamContract.pdf)
 		</td>	
 	</tr>
