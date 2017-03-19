@@ -15,7 +15,7 @@ Scrum is a management framework that describes how teams can work together to de
 		<th>Day</th>
 		<th>Topic</th>
 		<th>Details</th>
-		<th>Litterature</th>
+		<th>Material</th>
     </tr>
 	<tr>
 		<td>Monday</td>
@@ -25,7 +25,10 @@ Scrum is a management framework that describes how teams can work together to de
 		Why / What / How?<br>
 		Make team contracts / Establish team contract for Fog project
 		</td>
-		<td>Pages 1-13</td>	
+		<td>
+		Scrum and XP from the Trenches: Pages 1-13
+		[TeamContract](Material/TeamContract.pdf)
+		</td>	
 	</tr>
 	<tr>
 		<td>Tuesday</td>
