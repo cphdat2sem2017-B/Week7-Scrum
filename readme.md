@@ -9,6 +9,8 @@ Scrum is a management framework that describes how teams can work together to de
 - How to calculate team velocity, meaning how much work a team can handle in time-boxed period
 - How to work in an iterative manner where software is build piece by piece
 
+[TeamContract](/Material/TeamContract.pdf)
+
 ## Weekplan
 <table>
 	<tr>
@@ -27,7 +29,7 @@ Scrum is a management framework that describes how teams can work together to de
 		</td>
 		<td>
 		Scrum and XP from the Trenches: Pages 1-13<br>
-		[TeamContract](/Material/TeamContract.pdf)
+		
 		</td>	
 	</tr>
 	<tr>
