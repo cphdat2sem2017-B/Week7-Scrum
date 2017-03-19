@@ -36,7 +36,9 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>
 		How to define requirements as user stories and how to build a Product Backlog containing stories based on estimation and prioritization.
 		</td>
-		<td>Pages 14-50</td>	
+		<td>
+		Scrum and XP from the Trenches: Pages 14-50
+		</td>	
 	</tr>
 	<tr>
 		<td>Wednesday</td>
@@ -45,7 +47,7 @@ Scrum is a management framework that describes how teams can work together to de
 		How to do sprint planning which is the team's planning of next iteration.
 		</td>
 		<td>
-		Pages 51-68 & 75-92<br>
+		Scrum and XP from the Trenches: Pages 51-68 & 75-92<br>
 		Video: https://www.youtube.com/watch?v=502ILHjX9EE</td>	
 	</tr>
 	<tr>
@@ -70,6 +72,12 @@ Scrum is a management framework that describes how teams can work together to de
 	</tr>
 </table>
 
-## Readings
+## Material
 Henrik Kniberg - Scrum and XP from the Trenches<br>
 https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
+
+Manifesto for Agile Software Development
+http://agilemanifesto.org/
+
+Mountain Goat Software - Scrum
+https://www.mountaingoatsoftware.com/agile/scrum
