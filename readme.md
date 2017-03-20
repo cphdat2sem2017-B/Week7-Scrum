@@ -67,9 +67,8 @@ Scrum is a management framework that describes how teams can work together to de
 		Presentation of group work:<br>
 		Product backlog grooming and prioritization of requirements for Fog semester project.<br>
 		Done group wise with teachers & Alpha Solutions.<br>
-		There will be a plan with meeting time for groups.
 		</td>
-		<td></td>	
+		<td><a href="Material/Review24-3-2017.pdf">GroupReviewMeetingTimes</a></td>	
 	</tr>
 </table>
 
