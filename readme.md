@@ -38,7 +38,9 @@ Scrum is a management framework that describes how teams can work together to de
 		How to define requirements as user stories and how to build a Product Backlog containing stories based on estimation and prioritization.
 		</td>
 		<td>
-		Scrum and XP from the Trenches: Pages 14-50
+		Scrum and XP from the Trenches: Pages 14-50<br><br>
+		<a href="Material/Backlogs.pdf">Backlogs</a><br>
+		<a href="Material/ProductBacklog.pdf">ProductBacklog</a><br>
 		</td>	
 	</tr>
 	<tr>
