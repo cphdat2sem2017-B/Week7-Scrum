@@ -57,12 +57,9 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>Scrum tools</td>	
 		<td>
 		Introduction to scrum tools<br>
-		Sprint planning<br>
 		Group work with product backlog grooming & prioritization.
 		</td>
-		<td>
-		Scrum and XP from the Trenches: Pages 51-68 & 75-92<br><br>
-		Video: https://www.youtube.com/watch?v=502ILHjX9EE
+		<td>		
 		</td>	
 	</tr>
 	<tr>
@@ -73,7 +70,11 @@ Scrum is a management framework that describes how teams can work together to de
 		Product backlog grooming and prioritization of requirements for Fog semester project.<br>
 		Done group wise with teachers & Alpha Solutions.<br>
 		</td>
-		<td><a href="Material/Meeting24-3-2017.pdf">MeetingTimes</a></td>	
+		<td>
+		Scrum and XP from the Trenches: Pages 51-68 & 75-92<br><br>
+		Video: https://www.youtube.com/watch?v=502ILHjX9EE<br><br>
+		<a href="Material/Meeting24-3-2017.pdf">MeetingTimes</a>
+		</td>	
 	</tr>
 </table>
 
