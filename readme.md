@@ -89,3 +89,6 @@ http://agilemanifesto.org/
 
 Mountain Goat Software - Scrum
 https://www.mountaingoatsoftware.com/agile/scrum
+
+Scrum Reference Card
+http://scrumreferencecard.com/ScrumReferenceCard.pdf
