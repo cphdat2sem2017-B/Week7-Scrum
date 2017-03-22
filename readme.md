@@ -50,6 +50,7 @@ Scrum is a management framework that describes how teams can work together to de
 		Break user stories into smaller slices
 		</td>
 		<td>
+		<a href="Material/ScrumExercise.pdf">ScrumExercise</a>
 		</td>	
 	</tr>
 	<tr>
