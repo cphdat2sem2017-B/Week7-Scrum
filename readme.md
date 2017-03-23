@@ -55,13 +55,19 @@ Scrum is a management framework that describes how teams can work together to de
 	</tr>
 	<tr>
 		<td>Thursday</td>
-		<td>Scrum tools</td>	
+		<td>Scrum tools / Sprint</td>	
 		<td>
-		Introduction to scrum tools<br>
+		Sprints<br>
+		Daily scrum meeting<br>
+		Burndown chart<br>
+		Scrum tools<br>
+		Retrospective meeting<br>
+		Review meeting<br>
 		Group work with product backlog grooming & prioritization.
 		</td>
-		<td>		
-		</td>	
+		<td>
+		<a href="Material/Sprints.pdf">Sprints</a>
+		</td>
 	</tr>
 	<tr>
 		<td>Friday</td>
